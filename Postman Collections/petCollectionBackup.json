@@ -52,7 +52,6 @@
 							"script": {
 								"id": "12ecbae2-945f-4e9e-a4e5-50c28fad0dbd",
 								"exec": [
-									"//FORK\r",
 									"//changes from main\r",
 									""
 								],
